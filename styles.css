@@ -1,0 +1,11 @@
+.table, th, td{
+    border: 1px solid black;
+}
+
+.english{
+    margin-right: 15px;
+}
+
+.france{
+    margin-left: 15px;
+}
