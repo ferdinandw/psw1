@@ -1,11 +1,4 @@
-.table, th, td{
-    border: 1px solid black;
-}
-
-.english{
-    margin-right: 15px;
-}
-
-.france{
-    margin-left: 15px;
+table, th, td {
+    border: 5px solid black ;
+    text-align: center;
 }
